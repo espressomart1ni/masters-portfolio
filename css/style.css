@@ -56,3 +56,4 @@ p{margin:0 0 .8em;max-width:62ch}ul{margin:0;padding-left:1.1em}li{margin-bottom
 .typing-cursor{display:inline-block;margin-left:.08em;color:var(--mute);animation:blink 1s steps(1,end) infinite}@keyframes blink{50%{opacity:0}}
 @media(max-width:860px){.landing-menu{display:none}}
 #background .tl{align-self:start}
+#craft2 .photos{grid-template-columns:1fr 1fr 1.25fr}
